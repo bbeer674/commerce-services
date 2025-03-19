@@ -1,7 +1,3 @@
-ตัวอย่าง **README.md** สั้นๆ ชัดเจน สำหรับ RESTful API (ข้อ 1):
-
----
-
 # RESTful API with Node.js & Express
 
 RESTful API User Management
